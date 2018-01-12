@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Dec/2017:13:11:15 -0600] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:13:11:16 -0600] "GET /Banking/account.jsp HTTP/1.1" 500 2766
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:13:11:33 -0600] "GET /Banking/index.jsp HTTP/1.1" 200 3351
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:13:11:34 -0600] "GET /Banking/SignUpServlet HTTP/1.1" 200 3499
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:13:11:35 -0600] "GET /Banking/styles/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:13:11:50 -0600] "POST /Banking/AccountServlet HTTP/1.1" 200 3295
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:13:13:20 -0600] "POST /Banking/WithdrawlServlet HTTP/1.1" 200 3392
+127.0.0.1 - - [19/Dec/2017:15:36:07 -0600] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:36:07 -0600] "GET /Banking/index.jsp HTTP/1.1" 200 3351
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:36:09 -0600] "GET /Banking/ HTTP/1.1" 200 3351
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:36:09 -0600] "GET /favicon.ico HTTP/1.1" 404 1084
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:36:11 -0600] "GET /Banking/SignUpServlet HTTP/1.1" 200 3499
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:36:11 -0600] "GET /Banking/styles/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:36:31 -0600] "POST /Banking/AccountServlet HTTP/1.1" 200 3486
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:37:07 -0600] "POST /Banking/AccountServlet HTTP/1.1" 200 3486
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:37:25 -0600] "POST /Banking/AccountServlet HTTP/1.1" 200 3486
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:15:38:03 -0600] "POST /Banking/DepositServlet HTTP/1.1" 200 3584
